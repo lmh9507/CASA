@@ -15,7 +15,7 @@ CASA regards **CNN Autoencoder-based Score Attenton** improving channel-wise tok
 The main result of CASA is as the following:
 
 <p align="center">
-<img src="./figures/CASA_main_table.png" alt="" align=center />
+<img src="./figures/CASA_main_table.PNG" alt="" align=center />
 </p>
 
 ## Usage 
