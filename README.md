@@ -37,3 +37,15 @@ bash ./scripts/long_term_forecast/ECL_script/CASA.sh
 
 If you find this repo helpful, please cite our paper. 
 
+```
+@misc{lee2025casacnnautoencoderbasedscore,
+      title={CASA: CNN Autoencoder-based Score Attention for Efficient Multivariate Long-term Time-series Forecasting}, 
+      author={Minhyuk Lee and HyeKyung Yoon and MyungJoo Kang},
+      year={2025},
+      eprint={2505.02011},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2505.02011}, 
+}
+```
+
