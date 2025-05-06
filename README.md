@@ -1,6 +1,6 @@
 # CASA
 
-The repo is the official implementation for the paper: "CASA: CNN Autoencoder-based Score Attention for Efficient Multivariate Long-term Time-series Forecasting" (IJCAI 2025)
+The repo is the official implementation for the paper: ["CASA: CNN Autoencoder-based Score Attention for Efficient Multivariate Long-term Time-series Forecasting"](https://arxiv.org/abs/2505.02011) (IJCAI 2025)
 
 
 
